@@ -1,0 +1,2 @@
+# Predicting-the-price-and-property-type-respectively-of-Airbnb
+Performed data visualization and data preprocessing with numpy, pandas, matplotlib and seaborn, built models with linear regression, ridge regression and random forest for price prediction, built models with logistic regression, KNN and SVM for prediction property type, and tuned the models with grid search to find the best hyperparameters.
